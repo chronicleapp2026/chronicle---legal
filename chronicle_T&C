@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chronicle — Terms and Conditions</title>
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+    color: #1a1a2e;
+    line-height: 1.7;
+    background: #fafafa;
+  }
+  h1 { font-size: 28px; margin-bottom: 4px; }
+  .updated { color: #666; font-size: 14px; margin-bottom: 40px; }
+  h2 { font-size: 20px; margin-top: 40px; border-bottom: 2px solid #4a9eff; padding-bottom: 6px; }
+  h3 { font-size: 16px; margin-top: 24px; }
+  p, li { font-size: 15px; color: #333; }
+  ul { padding-left: 22px; }
+  table { width: 100%; border-collapse: collapse; margin: 16px 0; font-size: 14px; }
+  th, td { text-align: left; padding: 10px 12px; border: 1px solid #ddd; }
+  th { background: #f0f4ff; }
+  a { color: #4a9eff; }
+  .footer-note { margin-top: 56px; padding-top: 24px; border-top: 1px solid #ddd; font-size: 13px; color: #777; }
+  .highlight {
+    background: #fff7e6;
+    border: 1px solid #ffe0a3;
+    border-radius: 10px;
+    padding: 16px 20px;
+    font-size: 14px;
+    margin: 16px 0;
+  }
+</style>
+</head>
+<body>
+
+<h1>Chronicle — Terms and Conditions</h1>
+<p class="updated">Last updated: 29 June 2026</p>
+
+<p>These Terms and Conditions ("Terms") govern your use of Chronicle (the "App"), developed and operated
+by Busy Bee Software ("we", "us", "our"). By downloading, accessing, or using Chronicle, you agree to be
+bound by these Terms. If you do not agree, please do not use the App.</p>
+
+<h2>1. Eligibility</h2>
+<p>Chronicle is not directed at children under 13 (or the relevant minimum age in your jurisdiction). By
+using the App, you confirm that you meet this age requirement, or that you have the consent of a parent
+or guardian to do so.</p>
+
+<h2>2. Your Account</h2>
+<ul>
+  <li>You must create an account to use most features of Chronicle.</li>
+  <li>You are responsible for maintaining the confidentiality of your login credentials and for all
+  activity that occurs under your account.</li>
+  <li>You agree to provide accurate information when creating your account and to keep it up to date.</li>
+  <li>You may delete your account at any time from within the App's Settings, or by following the
+  instructions on our <a href="chronicle_delete_account.html">Delete Account</a> page.</li>
+</ul>
+
+<h2>3. Subscriptions and Billing</h2>
+<p>Chronicle offers optional premium subscriptions ("Chronicle Premium") on a monthly or annual
+recurring basis. The following terms apply to all subscription purchases:</p>
+<ul>
+  <li><strong>Payment</strong> — subscriptions are billed through the Google Play Store or Apple App
+  Store, depending on your device. We do not process or store your payment details directly.</li>
+  <li><strong>Auto-renewal</strong> — subscriptions renew automatically at the end of each billing
+  period unless cancelled at least 24 hours before the renewal date.</li>
+  <li><strong>Cancellation</strong> — you can cancel at any time through your Google Play or Apple ID
+  account settings. Cancelling stops future billing but does not refund the current billing period.</li>
+  <li><strong>Refunds</strong> — refund requests are handled according to the policies of the Google
+  Play Store or Apple App Store, as applicable. We do not directly issue refunds.</li>
+  <li><strong>Price changes</strong> — we may change subscription pricing from time to time. Existing
+  subscribers will be notified in advance of any price increase taking effect on their next renewal.</li>
+  <li><strong>Free tier</strong> — core features of Chronicle (planner, journal, tasks, habits) remain
+  available without a subscription. Premium unlocks AI-powered features and additional functionality.</li>
+</ul>
+
+<h2>4. AI-Generated Content</h2>
+<p>Chronicle uses artificial intelligence (via the Google Gemini API) to generate certain content,
+including journal insights, dream analysis, meal plans, horoscope and astrology readings, and local
+event suggestions. Please read this section carefully:</p>
+
+<div class="highlight">
+  <strong>AI-generated content is provided for entertainment, reflection, and informational purposes
+  only.</strong> It is not professional advice of any kind.
+</div>
+
+<ul>
+  <li><strong>Astrology and horoscope content</strong> is provided for entertainment purposes only. It
+  is not a scientific or predictive tool, and should not be relied upon to make medical, financial,
+  legal, or other significant life decisions.</li>
+  <li><strong>Meal plans and recipes</strong> are general suggestions only and do not constitute medical,
+  nutritional, or dietary advice. If you have specific health conditions, allergies, or dietary
+  requirements, consult a qualified healthcare professional or dietitian before following any
+  AI-generated meal plan.</li>
+  <li><strong>Journal insights and dream analysis</strong> are reflective tools intended to support
+  self-exploration. They are not therapy, counselling, or a substitute for professional mental health
+  care. If you are experiencing a mental health crisis, please contact a mental health professional or
+  crisis service in your area immediately.</li>
+  <li>AI-generated content may occasionally be inaccurate, incomplete, or inappropriate. We do not
+  guarantee the accuracy, reliability, or suitability of any AI-generated output.</li>
+</ul>
+
+<h2>5. Your Content</h2>
+<p>You retain ownership of the content you create in Chronicle, including journal entries, dream logs,
+calendar events, tasks, and notes ("Your Content"). By using the App, you grant us a limited licence to
+store, process, and transmit Your Content solely as necessary to provide the App's features — for
+example, sending relevant journal text to our AI provider to generate an insight, or storing your
+calendar events so they sync across your devices.</p>
+<p>We do not sell Your Content, and we do not use it to train AI models. See our
+<a href="chronicle_privacy_policy.html">Privacy Policy</a> for full details on how your data is handled.</p>
+
+<h2>6. Device Calendar Access</h2>
+<p>If you choose to use the calendar import feature, Chronicle will request permission to read your
+device's calendar accounts (such as Google Calendar or Samsung Calendar). This permission is used solely
+to import and keep your events in sync within the App. You can revoke this permission at any time in
+your device settings; doing so will stop future syncing but will not delete events already imported.</p>
+
+<h2>7. Acceptable Use</h2>
+<p>You agree not to:</p>
+<ul>
+  <li>Use the App for any unlawful purpose or in violation of these Terms;</li>
+  <li>Attempt to gain unauthorised access to any part of the App, our servers, or other users' data;</li>
+  <li>Reverse engineer, decompile, or attempt to extract the source code of the App, except as
+  permitted by law;</li>
+  <li>Use automated systems (bots, scrapers) to access the App without our prior written consent;</li>
+  <li>Upload or transmit content that is unlawful, harassing, defamatory, or infringes the rights of
+  others.</li>
+</ul>
+
+<h2>8. Intellectual Property</h2>
+<p>The App, including its design, branding, code, and all content we provide (excluding Your Content),
+is owned by Busy Bee Software and protected by intellectual property laws. You may not copy, modify,
+distribute, or create derivative works based on the App without our written permission.</p>
+
+<h2>9. Third-Party Services</h2>
+<p>Chronicle relies on third-party services to operate, including Supabase (data storage), Google
+Gemini (AI features), Firebase (push notifications), and Google Play Billing or Apple App Store
+(payments). Your use of these integrated services is also subject to the relevant third party's own
+terms. We are not responsible for the availability or performance of third-party services outside our
+control.</p>
+
+<h2>10. Disclaimers</h2>
+<p>The App is provided "as is" and "as available" without warranties of any kind, whether express or
+implied, including but not limited to warranties of merchantability, fitness for a particular purpose,
+or non-infringement. We do not warrant that the App will be uninterrupted, error-free, or completely
+secure.</p>
+
+<h2>11. Limitation of Liability</h2>
+<p>To the maximum extent permitted by law, Busy Bee Software shall not be liable for any indirect,
+incidental, special, consequential, or punitive damages arising from your use of, or inability to use,
+the App — including but not limited to loss of data, loss of profits, or decisions made in reliance on
+AI-generated content. Nothing in these Terms excludes or limits any consumer guarantee or right that
+cannot lawfully be excluded under applicable law, including the Australian Consumer Law.</p>
+
+<h2>12. Termination</h2>
+<p>We may suspend or terminate your access to the App if you breach these Terms, engage in conduct we
+reasonably believe is harmful to the App or other users, or for any other reason at our discretion,
+with or without notice. You may stop using the App and delete your account at any time.</p>
+
+<h2>13. Changes to These Terms</h2>
+<p>We may update these Terms from time to time. We will notify you of material changes via an in-app
+notice or by updating the "Last updated" date above. Continued use of the App after changes take effect
+constitutes acceptance of the revised Terms.</p>
+
+<h2>14. Governing Law</h2>
+<p>These Terms are governed by the laws of South Australia, Australia, without regard to conflict of
+law principles, except where local consumer protection laws in your country of residence mandate
+otherwise.</p>
+
+<h2>15. Contact Us</h2>
+<p>If you have questions about these Terms, contact us at:</p>
+<p><strong>Busy Bee Software</strong><br>
+Email: <a href="mailto:support@chronicleapp.com.au">support@chronicleapp.com.au</a></p>
+
+<div class="footer-note">
+  <p>This document is provided as a general template based on Chronicle's actual features and
+  business practices. It is not a substitute for legal advice. We recommend having this document
+  reviewed by a qualified lawyer familiar with consumer and contract law in your jurisdiction before
+  publishing, particularly given Chronicle's use of AI-generated content and recurring subscriptions,
+  and especially if you have users outside Australia.</p>
+</div>
+
+</body>
+</html>
